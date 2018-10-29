@@ -1,5 +1,8 @@
 <?php
 
+if (!file_exists(__DIR__ . '/data')) {
+    mkdir(__DIR__ . '/data');
+}
 // 委員名單：https://data.ly.gov.tw/getds.action?id=9
 $target = __DIR__ . '/data/legislator.csv';
 if (!file_exists($target)) {
