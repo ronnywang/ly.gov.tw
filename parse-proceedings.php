@@ -1,5 +1,7 @@
 <?php
 
+include(__DIR__ . '/library.php');
+
 if (!file_exists(__DIR__ . '/proceedings')) {
     mkdir(__DIR__ . '/proceedings');
 }
@@ -80,6 +82,7 @@ $parse_proceed = function($input, $file) use ($parseContent){
             array('step' => '出席委員', 'require' => true, 'alone' => false),
             array('step' => '請假委員', 'require' => false, 'alone' => false),
             array('step' => '列席官員', 'require' => false, 'alone' => false),
+            array('step' => '列席人員', 'require' => false, 'alone' => false),
             array('step' => '主席', 'require' => true, 'alone' => false),
             array('step' => '列席', 'require' => true, 'alone' => false),
             array('step' => '記錄', 'require' => false, 'alone' => false), 
@@ -167,6 +170,20 @@ $parse_proceed = function($input, $file) use ($parseContent){
     // TODO: 時間
     $info->{'地點'} = trim($info->{'地點'}[0]);
     foreach (array('出席委員', '請假委員') as $step) {
+        if (!property_exists($info, $step)) {
+            $info->{$step} = array();
+            continue;
+        }
+        $content = implode("\n", $info->{$step});
+        $content = preg_replace('#(委員出席|委員缺席|委員請假)\s*\d*\s*人\s*.*#m', '', $content);
+
+        try {
+            $info->{$step} = Helper::check_persons($content);
+        } catch (Exception $e) {
+            $info->{$step} = $content;
+            //error_log($e->getMessage());
+            //readline('test');
+        }
     }
     // TODO: 列席官員
     // TODO: 主席
