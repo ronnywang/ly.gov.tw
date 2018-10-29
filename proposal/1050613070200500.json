@@ -1,0 +1,30 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "17",
+        "meetingTimes": "",
+        "billNo": "1050613070200500",
+        "billName": "「私立學校法部分條文修正草案」，請審議案。",
+        "billOrg": "本院民進黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/17/LCEWA01_090117_00052.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/17/LCEWA01_090117_00052.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院民進黨黨團，有鑑於私立學校係具公益性質之財團法人，為配合十二年國民基本教育之推動及強化董事會運作之公開透明，以達強化私校監督及資訊揭露之公共性，爰擬具「私立學校法部分條文修正草案」。是否有當？請公決案。",
+        "提案人": [
+            "民主進步黨立法院黨團",
+            "柯建銘",
+            "吳秉叡",
+            "陳亭妃"
+        ],
+        "連署人": [],
+        "published_date": "2016-06-15",
+        "提案號": "19315",
+        "院總第": "963"
+    }
+}

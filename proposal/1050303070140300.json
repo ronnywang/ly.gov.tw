@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "04",
+        "meetingTimes": "",
+        "billNo": "1050303070140300",
+        "billName": "「災害防救法部分條文修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "撤案",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/04/LCEWA01_090104_00084.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/04/LCEWA01_090104_00084.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-03-09",
+        "提案號": "15624",
+        "院總第": "1711"
+    }
+}

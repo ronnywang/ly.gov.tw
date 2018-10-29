@@ -1,0 +1,32 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "09",
+        "meetingTimes": "",
+        "billNo": "1050406070201300",
+        "billName": "「勞動基準法第一條條文修正草案」，請審議案。",
+        "billOrg": "本院時代力量黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/09/LCEWA01_090109_00040.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/09/LCEWA01_090109_00040.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院時代力量黨團，鑑於勞動基準法雖已明定勞動條件不得低於本法所定之最低標準，然因缺乏違反之明確法律效果，往往產生法律適用之爭議，無法充分實質保障勞工之勞動權益。爰提出「勞動基準法第一條條文修正草案」，明定勞雇雙方訂定勞動條件不符本法所定之最低標準時，無效，並應回歸適用本法規範之最低標準。是否有當？敬請公決。",
+        "提案人": [
+            "時代力量立法院黨團",
+            "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal",
+            "徐永明",
+            "洪慈庸",
+            "黃國昌",
+            "林昶佐"
+        ],
+        "連署人": [],
+        "published_date": "2016-04-13",
+        "提案號": "18858",
+        "院總第": "1121"
+    }
+}

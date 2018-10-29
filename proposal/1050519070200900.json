@@ -1,0 +1,32 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "15",
+        "meetingTimes": "",
+        "billNo": "1050519070200900",
+        "billName": "「國家語言平等發展法草案」，請審議案。",
+        "billOrg": "本院時代力量黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/15/LCEWA01_090115_00032.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/15/LCEWA01_090115_00032.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院時代力量黨團，鑑於我國為多元族群、文化及語言國家，基於多元文化主義及語言人權，為尊重語言多樣性及永續發展多元文化，創造互為主體之友善語言環境，落實國民平等使用語言之權利，保障國家語言平等發展，承認本國各族群使用之固有自然語言均為國家語言，爰擬具「國家語言平等發展法」。是否有當？敬請公決。",
+        "提案人": [
+            "時代力量立法院黨團",
+            "洪慈庸",
+            "林昶佐",
+            "徐永明",
+            "黃國昌",
+            "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal"
+        ],
+        "連署人": [],
+        "published_date": "2016-05-25",
+        "提案號": "19213",
+        "院總第": "1155"
+    }
+}

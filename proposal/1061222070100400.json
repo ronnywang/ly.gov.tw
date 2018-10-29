@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "15",
+        "meetingTimes": "",
+        "billNo": "1061222070100400",
+        "billName": "「空氣污染防制法修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/04/15/LCEWA01_090415_00095.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/04/15/LCEWA01_090415_00095.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-12-27",
+        "提案號": "16202",
+        "院總第": "970"
+    }
+}

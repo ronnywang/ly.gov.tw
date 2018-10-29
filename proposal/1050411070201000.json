@@ -1,0 +1,31 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "09",
+        "meetingTimes": "",
+        "billNo": "1050411070201000",
+        "billName": "「立法院各委員會組織法部分條文修正草案」，請審議案。",
+        "billOrg": "本院民進黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/09/LCEWA01_090109_00056.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/09/LCEWA01_090109_00056.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院民進黨黨團，為推動國會改革，提升委員會專業審查能力，允應修正委員會召集委員之制度設計，採單一召集委員制，以朝向委員會中心主義，並強化委員會專業審查能力及國會權能；爰擬具「立法院各委員會組織法部分條文修正草案」。是否有當？敬請公決。",
+        "提案人": [
+            "民主進步黨立法院黨團",
+            "柯建銘",
+            "李俊俋",
+            "吳秉叡",
+            "陳亭妃"
+        ],
+        "連署人": [],
+        "published_date": "2016-04-13",
+        "提案號": "18906",
+        "院總第": "23"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "13",
+        "meetingTimes": "",
+        "billNo": "1050502070100100",
+        "billName": "廢止「公葬條例」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "撤案",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/13/LCEWA01_090113_00062.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/13/LCEWA01_090113_00062.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-05-11",
+        "提案號": "16571",
+        "院總第": "1138"
+    }
+}

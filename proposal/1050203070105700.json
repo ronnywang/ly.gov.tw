@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "01",
+        "meetingTimes": "",
+        "billNo": "1050203070105700",
+        "billName": "「消防設備人員法草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "排入院會",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/01/LCEWA01_090101_00111.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/01/LCEWA01_090101_00111.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-02-17",
+        "提案號": "15595",
+        "院總第": "1301"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "01",
+        "meetingTimes": "",
+        "billNo": "1060901070100400",
+        "billName": "「海關進口稅則部分稅則修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/04/01/LCEWA01_090401_00195.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/04/01/LCEWA01_090401_00195.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-09-20",
+        "提案號": "16031",
+        "院總第": "1783"
+    }
+}

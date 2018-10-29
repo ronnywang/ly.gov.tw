@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "05",
+        "meetingTimes": "",
+        "billNo": "1061016070100100",
+        "billName": "「所得稅法部分條文修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "三讀",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/03/pdf/09/04/01/02/LCEWA01_09040102_00010.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/03/word/09/04/01/02/LCEWA01_09040102_00010.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2018-01-05",
+        "提案號": "16153",
+        "院總第": "225"
+    }
+}

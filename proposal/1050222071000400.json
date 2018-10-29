@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "02",
+        "meetingTimes": "",
+        "billNo": "1050222071000400",
+        "billName": "我國擬加入聯合國「兒童權利公約」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/02/LCEWA01_090102_00106.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/02/LCEWA01_090102_00106.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-02-24",
+        "提案號": "15608",
+        "院總第": "1684"
+    }
+}

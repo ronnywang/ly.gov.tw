@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "03",
+        "sessionTimes": "01",
+        "meetingTimes": "",
+        "billNo": "1060208070100200",
+        "billName": "「建築師法修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/03/01/LCEWA01_090301_00084.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/03/01/LCEWA01_090301_00084.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-02-15",
+        "提案號": "15908",
+        "院總第": "820"
+    }
+}

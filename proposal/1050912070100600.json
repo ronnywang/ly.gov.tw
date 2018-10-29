@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "03",
+        "meetingTimes": "",
+        "billNo": "1050912070100600",
+        "billName": "我國擬加入之「聯合國打擊跨國有組織犯罪公約」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/03/LCEWA01_090203_00036.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/03/LCEWA01_090203_00036.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-09-21",
+        "提案號": "15775",
+        "院總第": "1374"
+    }
+}

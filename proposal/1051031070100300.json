@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "10",
+        "meetingTimes": "",
+        "billNo": "1051031070100300",
+        "billName": "「海關進口稅則第81129222號、第81129225號、第81129226號修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/10/LCEWA01_090210_00062.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/10/LCEWA01_090210_00062.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-11-09",
+        "提案號": "15828",
+        "院總第": "247"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "03",
+        "meetingTimes": "",
+        "billNo": "1050301070202400",
+        "billName": "「立法院各委員會組織法第三條之四條文修正草案」，請審議案。",
+        "billOrg": "本院國民黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/03/LCEWA01_090103_00107.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/03/LCEWA01_090103_00107.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院國民黨黨團，有鑑於委員會專業化之建立，有賴資深制為基礎，然目前立法院委員會缺乏資深制，不僅影響委員會專業功能，也削弱委員會監督政府施政之能力。為建立委員會之資深制，以強化委員會的專業化，出任召集委員者應具備一定資歷條件，爰擬具「立法院各委員會組織法第三條之四條文修正草案」。是否有當？敬請公決。",
+        "提案人": [
+            "中國國民黨立法院黨團",
+            "林德福"
+        ],
+        "連署人": [],
+        "published_date": "2016-03-02",
+        "提案號": "18442",
+        "院總第": "23"
+    }
+}

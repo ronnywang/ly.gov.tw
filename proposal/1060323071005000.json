@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "03",
+        "sessionTimes": "07",
+        "meetingTimes": "",
+        "billNo": "1060323071005000",
+        "billName": "「前瞻基礎建設特別條例草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/03/07/LCEWA01_090307_00064.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/03/07/LCEWA01_090307_00064.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-03-29",
+        "提案號": "15943",
+        "院總第": "1539"
+    }
+}

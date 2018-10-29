@@ -1,0 +1,28 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "08",
+        "meetingTimes": "",
+        "billNo": "1050401070200800",
+        "billName": "「政黨及其附隨組織財產調查暨處理條例草案」，請審議案。",
+        "billOrg": "本院親民黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/08/LCEWA01_090108_00072.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/08/LCEWA01_090108_00072.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院親民黨黨團，為調查及處理政黨及其附隨組織持有之所有財產，促進政黨政治健全發展，建立公平、公正、公開的政黨競爭環境，爰擬具「政黨及其附隨組織財產調查暨處理條例草案」。是否有當？敬請公決。",
+        "提案人": [
+            "親民黨立法院黨團",
+            "李鴻鈞"
+        ],
+        "連署人": [],
+        "published_date": "2016-04-06",
+        "提案號": "18828",
+        "院總第": "1434"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "01",
+        "meetingTimes": "",
+        "billNo": "1050216070200200",
+        "billName": "「總統職務交接條例草案」，請審議案。",
+        "billOrg": "本院民進黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "排入院會",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/01/LCEWA01_090101_00032.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/01/LCEWA01_090101_00032.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院民進黨黨團，鑑於民主選舉產生之政黨輪替，係為自由民主憲政國家中普遍之現象；然我國法令尚無一完整的政權移交規範，實難符合現代民主國家法制之基本要求，爰擬具「總統職務交接條例草案」。是否有當？請公決案。",
+        "提案人": [
+            "民主進步黨立法院黨團",
+            "柯建銘",
+            "吳秉叡",
+            "陳亭妃"
+        ],
+        "連署人": [],
+        "published_date": "2016-02-25",
+        "提案號": "18228",
+        "院總第": "1679"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "10",
+        "meetingTimes": "",
+        "billNo": "1050418070200500",
+        "billName": "「中華民國刑法第七條條文修正草案」，請審議案。",
+        "billOrg": "本院時代力量黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/10/LCEWA01_090110_00054.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/10/LCEWA01_090110_00054.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院時代力量黨團，為維護我國司法主權，確保我國刑法於跨境犯罪之有效實現，並便利我國於司法互助及引渡請求時之積極主張，爰擬具「中華民國刑法第七條條文修正草案」，將本國人於外國之犯罪，修正為於犯罪地亦有處罰規定之情形，即適用我國刑法之規定，不再另以重罪為限。是否有當？敬請公決。",
+        "提案人": [
+            "時代力量立法院黨團",
+            "黃國昌",
+            "林昶佐",
+            "洪慈庸",
+            "徐永明",
+            "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal"
+        ],
+        "連署人": [],
+        "published_date": "2016-04-20",
+        "提案號": "18955",
+        "院總第": "246"
+    }
+}

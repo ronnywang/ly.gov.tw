@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "10",
+        "meetingTimes": "",
+        "billNo": "1051021070100100",
+        "billName": "「電業法修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/08/LCEWA01_090208_00046.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/08/LCEWA01_090208_00046.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-10-26",
+        "提案號": "15817",
+        "院總第": "660"
+    }
+}

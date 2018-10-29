@@ -1,0 +1,30 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "09",
+        "meetingTimes": "",
+        "billNo": "1050411070200700",
+        "billName": "「兩岸訂定協議監督條例草案」，請審議案。",
+        "billOrg": "本院民進黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/09/LCEWA01_090109_00053.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/09/LCEWA01_090109_00053.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院民進黨黨團，為落實資訊公開、國會監督及人民參與，建構兩岸訂定協議之標準化流程，以提升協議之公開透明度，確保協議簽署符合國家最大利益及民眾福祉，爰制定「兩岸訂定協議監督條例草案」。是否有當？敬請公決。",
+        "提案人": [
+            "民主進步黨立法院黨團",
+            "柯建銘",
+            "吳秉叡",
+            "陳亭妃"
+        ],
+        "連署人": [],
+        "published_date": "2016-04-13",
+        "提案號": "18903",
+        "院總第": "1374"
+    }
+}

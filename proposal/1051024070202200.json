@@ -1,0 +1,32 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "09",
+        "meetingTimes": "",
+        "billNo": "1051024070202200",
+        "billName": "「國定假日法草案」，請審議案。",
+        "billOrg": "本院時代力量黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/09/LCEWA01_090209_00023.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/09/LCEWA01_090209_00023.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院時代力量黨團，鑑於國定假日應享有法律上制度性保障之地位，應由立法者以法律予以規範。茲為彰顯台灣社會核心價值、紀念民主發展、尊重多元文化及傳統民俗價值，落實對國民休息權之積極保障，爰擬具「國定假日法草案」。是否有當？敬請公決。",
+        "提案人": [
+            "時代力量立法院黨團",
+            "黃國昌",
+            "徐永明",
+            "林昶佐",
+            "洪慈庸",
+            "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal"
+        ],
+        "連署人": [],
+        "published_date": "2016-11-02",
+        "提案號": "19709",
+        "院總第": "1169"
+    }
+}

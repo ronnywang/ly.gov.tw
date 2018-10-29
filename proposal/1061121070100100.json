@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "11",
+        "meetingTimes": "",
+        "billNo": "1061121070100100",
+        "billName": "「數位通訊傳播法草案」及「電信管理法草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/04/11/LCEWA01_090411_00028.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/04/11/LCEWA01_090411_00028.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-11-29",
+        "提案號": "16178",
+        "院總第": "379"
+    }
+}

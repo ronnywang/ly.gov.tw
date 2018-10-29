@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "05",
+        "meetingTimes": "",
+        "billNo": "1051003070100300",
+        "billName": "「消防法第九條、第十九條及第三十八條條文修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/05/LCEWA01_090205_00061.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/05/LCEWA01_090205_00061.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-10-05",
+        "提案號": "15789",
+        "院總第": "1307"
+    }
+}

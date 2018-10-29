@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "12",
+        "meetingTimes": "",
+        "billNo": "1061130070100100",
+        "billName": "「都市更新條例修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/04/12/LCEWA01_090412_00042.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/04/12/LCEWA01_090412_00042.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-12-06",
+        "提案號": "16184",
+        "院總第": "686"
+    }
+}

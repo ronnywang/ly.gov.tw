@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "17",
+        "meetingTimes": "",
+        "billNo": "1051221070100100",
+        "billName": "「中華民國刑法部分條文修正草案」案。",
+        "billOrg": "行政院、司法院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/17/LCEWA01_090217_00055.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/17/LCEWA01_090217_00055.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-12-28",
+        "提案號": "15880",
+        "院總第": "246"
+    }
+}

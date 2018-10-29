@@ -1,0 +1,32 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "21",
+        "meetingTimes": "",
+        "billNo": "1050706070200500",
+        "billName": "「勞動基準法部分條文修正草案」，請審議案。",
+        "billOrg": "本院時代力量黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/21/LCEWA01_090121_00019.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/21/LCEWA01_090121_00019.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院時代力量黨團，鑑於台灣勞動工時居高不下，每年實際平均總工時已超過兩千一百小時，不僅超過 OECD 國家之均值 1,770 小時，也遠高於美、日、德等先進國家，已在世界上名列前茅，然而薪資卻未相對成長，儼已成為過勞之島。為保障勞工休息權及身心健康，並落實周休二日以確實縮短工時，爰擬具「勞動基準法部分條文修正草案」。是否有當？敬請公決。",
+        "提案人": [
+            "時代力量立法院黨團",
+            "黃國昌",
+            "徐永明",
+            "林昶佐",
+            "洪慈庸",
+            "高潞．以用．巴魕剌Kawlo．Iyun．Pacidal"
+        ],
+        "連署人": [],
+        "published_date": "2016-07-13",
+        "提案號": "19428",
+        "院總第": "1121"
+    }
+}

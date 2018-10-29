@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "10",
+        "meetingTimes": "",
+        "billNo": "1051019070100100",
+        "billName": "「森林法部分條文修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/08/LCEWA01_090208_00044.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/08/LCEWA01_090208_00044.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-10-26",
+        "提案號": "15807",
+        "院總第": "917"
+    }
+}

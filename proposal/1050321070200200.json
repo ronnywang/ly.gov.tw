@@ -1,0 +1,28 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "06",
+        "meetingTimes": "",
+        "billNo": "1050321070200200",
+        "billName": "「總統不當財產調查處理條例草案」，請審議案。",
+        "billOrg": "本院國民黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/06/LCEWA01_090106_00069.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/06/LCEWA01_090106_00069.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院國民黨黨團，為端正政風，澄清吏治，確立總統為公職人員廉能表率之地位，健全陽光法制，確保總統職務廉潔性，促其財產透明公開，以落實我國民主法治發展，特擬具「總統不當財產調查處理條例」。是否有當？敬請公決。",
+        "提案人": [
+            "中國國民黨立法院黨團",
+            "林德福"
+        ],
+        "連署人": [],
+        "published_date": "2016-03-23",
+        "提案號": "18720",
+        "院總第": "1679"
+    }
+}

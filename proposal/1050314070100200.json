@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "06",
+        "meetingTimes": "",
+        "billNo": "1050314070100200",
+        "billName": "「學位授予法修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "撤案",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/06/LCEWA01_090106_00084.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/06/LCEWA01_090106_00084.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-03-23",
+        "提案號": "15636",
+        "院總第": "230"
+    }
+}

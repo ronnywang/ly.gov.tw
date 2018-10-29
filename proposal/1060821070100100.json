@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "07",
+        "meetingTimes": "",
+        "billNo": "1060821070100100",
+        "billName": "廢止「蒙藏委員會組織法」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/04/01/LCEWA01_090401_00210.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/04/01/LCEWA01_090401_00210.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2017-09-20",
+        "提案號": "16089",
+        "院總第": "1065"
+    }
+}

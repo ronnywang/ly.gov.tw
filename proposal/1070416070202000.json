@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "05",
+        "sessionTimes": "10",
+        "meetingTimes": "",
+        "billNo": "1070416070202000",
+        "billName": "「空氣污染防制法部分條文修正草案」，請審議案。",
+        "billOrg": "本院委員蔣萬安等16人",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "三讀",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/05/14/LCEWA01_090514_01243.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/05/14/LCEWA01_090514_01243.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2018-05-16",
+        "提案號": "16212,18521,20346,21007,21301,21705",
+        "院總第": "1798"
+    }
+}

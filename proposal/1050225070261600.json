@@ -1,0 +1,52 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "03",
+        "meetingTimes": "",
+        "billNo": "1050225070261600",
+        "billName": "「難民法草案」，請審議案。",
+        "billOrg": "本院委員尤美女等25人",
+        "billProposer": "尤美女　　顧立雄　　劉世芳　　陳學聖　　",
+        "billCosignatory": "蔡適應　　張廖萬堅　李俊俋　　余宛如　　王定宇　　呂孫綾　　吳琪銘　　蘇巧慧　　陳曼麗　　吳焜裕　　何欣純　　李應元　　鄭運鵬　　黃秀芳　　鍾佳濱　　蔡培慧　　葉宜津　　吳思瑤　　周春米　　黃國書　　洪宗熠　　",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/03/LCEWA01_090103_00037.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/03/LCEWA01_090103_00037.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院委員尤美女、顧立雄、劉世芳、陳學聖等 25 人，有鑑於1948 年 聯 合 國 「 世 界 人 權 宣 言 」 （ Declaration on HumanRights）、1951 年「難民地位公約」（Convention Relating tothe Status of Refugees ） 、 1967 年 「 難 民 地 位 議 定 書 」 （Protocol Relating to the Status of Refugees）及 1967 年 12 月 14日聯合國「領域庇護宣言」（Declaration on Territorial Asylum）規定，人人為避免迫害，享有在他國尋求並享受庇護之權利，各國應尊重他國給予難民之庇護；依據前開宣言及原則，爰擬具「難民法」草案。是否有當？敬請公決。",
+        "提案人": [
+            "尤美女",
+            "顧立雄",
+            "劉世芳",
+            "陳學聖"
+        ],
+        "連署人": [
+            "蔡適應",
+            "張廖萬堅",
+            "李俊俋",
+            "余宛如",
+            "王定宇",
+            "呂孫綾",
+            "吳琪銘",
+            "蘇巧慧",
+            "陳曼麗",
+            "吳焜裕",
+            "何欣純",
+            "李應元",
+            "鄭運鵬",
+            "黃秀芳",
+            "鍾佳濱",
+            "蔡培慧",
+            "葉宜津",
+            "吳思瑤",
+            "周春米",
+            "黃國書",
+            "洪宗熠"
+        ],
+        "published_date": "2016-03-02",
+        "提案號": "18370",
+        "院總第": "1374"
+    }
+}

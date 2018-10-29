@@ -1,0 +1,28 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "04",
+        "sessionTimes": "04",
+        "meetingTimes": "",
+        "billNo": "1061006070201300",
+        "billName": "「資通安全管理法草案」，請審議案。",
+        "billOrg": "本院親民黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/04/04/LCEWA01_090404_00047.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/04/04/LCEWA01_090404_00047.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院親民黨黨團，有鑑於近年來資通安全事件層出不窮，個人資料外洩屢有所聞，駭客不斷更新網路攻擊與資料竊取的手法，而政府機構所負擔之公共服務對於民眾生活及經濟活動有重大影響，為健全政府機構整體資通安全，在避免不當侵犯人民權利的前提下，為保障公共利益，參酌美國聯邦資訊安全現代化法（Federal Information Security ModernizationAct of 2014），爰增訂「資通安全管理法草案」。是否有當？敬請公決。",
+        "提案人": [
+            "親民黨立法院黨團",
+            "李鴻鈞"
+        ],
+        "連署人": [],
+        "published_date": "2017-10-11",
+        "提案號": "21141",
+        "院總第": "1570"
+    }
+}

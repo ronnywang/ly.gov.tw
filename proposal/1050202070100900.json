@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "01",
+        "meetingTimes": "",
+        "billNo": "1050202070100900",
+        "billName": "廢止「行政院主計處組織法」及「行政院主計處電子處理資料中心組織條例」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "排入院會",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/01/LCEWA01_090101_00054.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/01/LCEWA01_090101_00054.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-02-17",
+        "提案號": "15525",
+        "院總第": "296"
+    }
+}

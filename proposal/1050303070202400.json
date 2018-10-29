@@ -1,0 +1,28 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "04",
+        "meetingTimes": "",
+        "billNo": "1050303070202400",
+        "billName": "「勞動基準法第六十一條條文修正草案」，請審議案。",
+        "billOrg": "本院親民黨黨團",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/04/LCEWA01_090104_00031.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/04/LCEWA01_090104_00031.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "案由": "本院親民黨黨團，有鑑於勞工保險條例已於 101 年修正，將職業傷害保險給付請求權延長以五年不行使而消滅，為保障職業傷害勞工受領補償之權利，爰比照勞工保險條例，爰提出勞動基準法第六十一條條文修正草案，延長職業災害受領補償權為五年。是否有當？敬請公決。",
+        "提案人": [
+            "親民黨立法院黨團",
+            "李鴻鈞"
+        ],
+        "連署人": [],
+        "published_date": "2016-03-09",
+        "提案號": "18472",
+        "院總第": "468"
+    }
+}

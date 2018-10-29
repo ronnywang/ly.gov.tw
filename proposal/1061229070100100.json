@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "05",
+        "sessionTimes": "03",
+        "meetingTimes": "",
+        "billNo": "1061229070100100",
+        "billName": "「植物防疫檢疫法部分條文修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/05/01/LCEWA01_090501_00038.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/05/01/LCEWA01_090501_00038.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2018-02-26",
+        "提案號": "16205",
+        "院總第": "1053"
+    }
+}

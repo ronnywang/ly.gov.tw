@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "02",
+        "sessionTimes": "05",
+        "meetingTimes": "",
+        "billNo": "1051003070100100",
+        "billName": "「軍人及其家屬優待條例修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "交付審查",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/02/05/LCEWA01_090205_00063.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/02/05/LCEWA01_090205_00063.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-10-05",
+        "提案號": "15791",
+        "院總第": "1301"
+    }
+}

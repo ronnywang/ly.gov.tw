@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "08",
+        "meetingTimes": "",
+        "billNo": "1050329070100200",
+        "billName": "「私立學校法部分條文修正草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "撤案",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/08/LCEWA01_090108_00079.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/08/LCEWA01_090108_00079.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-04-06",
+        "提案號": "15652",
+        "院總第": "963"
+    }
+}

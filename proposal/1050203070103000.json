@@ -1,0 +1,22 @@
+{
+    "csv": {
+        "term": "09",
+        "sessionPeriod": "01",
+        "sessionTimes": "01",
+        "meetingTimes": "",
+        "billNo": "1050203070103000",
+        "billName": "「臺灣地區與大陸地區訂定協議處理及監督條例草案」案。",
+        "billOrg": "行政院",
+        "billProposer": "",
+        "billCosignatory": "",
+        "billStatus": "審查完畢",
+        "pdfUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/pdf/09/01/01/LCEWA01_090101_00128.pdf",
+        "docUrl": "http://lci.ly.gov.tw/LyLCEW/agenda1/02/word/09/01/01/LCEWA01_090101_00128.doc",
+        "selectTerm": "all"
+    },
+    "pdf": {
+        "published_date": "2016-03-02",
+        "提案號": "15588",
+        "院總第": "1374"
+    }
+}
