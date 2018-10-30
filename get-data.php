@@ -32,3 +32,9 @@ $target = __DIR__ . '/data/proceedings.csv';
 if (!file_exists($target)) {
     system("wget -O " . escapeshellarg($target) . ' ' . escapeshellarg('http://data.ly.gov.tw/odw/usageFile.action?id=45&type=CSV&fname=45_CSV.csv'));
 }
+
+// 臨時提案: https://data.ly.gov.tw/getds.action?id=44
+$target = __DIR__ . '/data/impromptu.csv';
+if (!file_exists($target)) {
+    system("wget -O " . escapeshellarg($target) . ' ' . escapeshellarg('http://data.ly.gov.tw/odw/usageFile.action?id=44&type=CSV&fname=44_CSV.csv'));
+}
