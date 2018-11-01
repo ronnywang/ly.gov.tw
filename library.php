@@ -70,6 +70,7 @@ class Helper
                 '高潞以用巴魕剌Kawlo．Iyun．Pacida' => '高潞．以用．巴魕剌Kawlo．Iyun．Pacidal',
                 '高潞以用巴魕剌Kawlo．Iyun．acidal' => '高潞．以用．巴魕剌Kawlo．Iyun．Pacidal',
                 '高潞．以用．巴魕剌Kawlo．Iyun．Pacida' => '高潞．以用．巴魕剌Kawlo．Iyun．Pacidal',
+                '高潞．以用．巴魕剌' => '高潞．以用．巴魕剌Kawlo．Iyun．Pacidal',
 
                 '鄭天財' => '鄭天財Sra．Kacaw',
                 'Sra Kacaw' => '鄭天財Sra．Kacaw',
@@ -84,10 +85,14 @@ class Helper
                 'Sufin．Siluko' => '廖國棟Sufin．Siluko',
 
                 // 錯字系列
+                '周陳秀' => '周成秀霞',
+                '高金素' => '高金素梅',
                 '許叔華' => '許淑華',
+                '林麗嬋' => '林麗蟬',
                 '林為州' => '林為洲',
                 '王惠' => '王惠美',
                 '鐘孔炤' => '鍾孔炤',
+                '鍾孔紹' => '鍾孔炤',
                 '趙正孙' => '趙正宇',
                 '王定孙' => '王定宇',
                 '王金帄' => '王金平',
